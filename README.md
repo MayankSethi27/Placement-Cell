@@ -29,8 +29,8 @@ The Placement-Cell project is a web application designed to manage the placement
 4. Set up environment variables:
    Create a `.env` file in the root directory and add the following variables:
    ```
-   PORT=8000
-   SECRET=blahsomething
+   PORT=your_Port
+   SECRET=your_secret
    DATABASE_URL=your_database_connection_string
    ```
 
@@ -46,16 +46,7 @@ The Placement-Cell project is a web application designed to manage the placement
 - MongoDB
 - Passport.js
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! Please create a pull request with your suggested changes.
 
-## Contact
-
-For any inquiries or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
-
-This one-page README provides a concise overview of your project's features, setup instructions, technology stack, licensing information, and how to contribute or get in touch. Remember to fill in the relevant details, such as your GitHub username, email address, and database connection string, to make it complete.
